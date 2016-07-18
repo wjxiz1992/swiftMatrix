@@ -1,2 +1,2 @@
 # swiftMatrix
-a easy-use Matrix struct in swift
+a easy-use Matrix struct in Swift
